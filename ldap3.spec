@@ -4,7 +4,7 @@
 #
 Name     : ldap3
 Version  : 2.6.1
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/de/d8/2457e098ba4d93e42773e19f6dcf3748653392e51cdd6926e4a48cfbf9cd/ldap3-2.6.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/de/d8/2457e098ba4d93e42773e19f6dcf3748653392e51cdd6926e4a48cfbf9cd/ldap3-2.6.1.tar.gz
 Summary  : A strictly RFC 4510 conforming LDAP V3 pure Python client library
