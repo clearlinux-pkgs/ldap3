@@ -1,5 +1,5 @@
 PKG_NAME := ldap3
-URL = https://files.pythonhosted.org/packages/de/d8/2457e098ba4d93e42773e19f6dcf3748653392e51cdd6926e4a48cfbf9cd/ldap3-2.6.1.tar.gz
+URL = https://files.pythonhosted.org/packages/c2/49/3bf179229a92ae87ff2dca1609c2ad599c497938f90fd5d66d02aa8e977e/ldap3-2.7.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
