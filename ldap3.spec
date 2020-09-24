@@ -4,7 +4,7 @@
 #
 Name     : ldap3
 Version  : 2.8.1
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/72/b9/b358e58d113928080b2cfaeb49078cdbcb33854886166afd325563219aef/ldap3-2.8.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/72/b9/b358e58d113928080b2cfaeb49078cdbcb33854886166afd325563219aef/ldap3-2.8.1.tar.gz
 Summary  : A strictly RFC 4510 conforming LDAP V3 pure Python client library
